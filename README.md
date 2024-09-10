@@ -1,4 +1,4 @@
-# Inverse-Kinematics-for-MyoSuite
+# Inverse-Kinematics-for-MyoSuite(IK)
 A Inverse Kinematics calculation repo for [MyoSuite](https://github.com/MyoHub/myosuite).
 
 A method for calculating joint angles through site point trajectories in a MyoSuite environment. 
