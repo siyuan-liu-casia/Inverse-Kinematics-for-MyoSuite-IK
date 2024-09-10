@@ -2,7 +2,6 @@ import gym
 import myosuite
 import numpy as np
 from scipy.optimize import minimize
-
 '''
 A method for calculating joint angles through site point trajectories in a MyoSuite environment. 
 In this code, the trajectory of the site is simply interpolated between the starting point and the target point. 
