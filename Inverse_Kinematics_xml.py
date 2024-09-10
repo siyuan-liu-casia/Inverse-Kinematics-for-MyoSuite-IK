@@ -4,6 +4,7 @@ import os
 from scipy.optimize import minimize
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
+
 '''
 A method for calculating joint angles through site point trajectories in mujoco with myosim xml model. 
 In this code, the trajectory of the site is simply interpolated between the starting point and the target point. 
