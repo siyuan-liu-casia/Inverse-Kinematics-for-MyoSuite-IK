@@ -10,8 +10,7 @@ A method for calculating joint angles through site point trajectories in mujoco 
 In this code, the trajectory of the site is simply interpolated between the starting point and the target point. 
 Alternatively, the interpolated_points can be directly assigned as the site trajectory for calculation.
 '''
-# Mujoco settings
-sim_time = 0.5
+
 #your myosim model xml path
 xml_path = r'F:\pycode\MyoSuite\myosuite-main\myosuite\simhive\myo_sim\elbow\myoelbow_2dof6muscles.xml'
 
