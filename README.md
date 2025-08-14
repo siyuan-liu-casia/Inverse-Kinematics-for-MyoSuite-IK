@@ -1,6 +1,7 @@
 # Inverse-Kinematics-for-MyoSuite(IK)
 ----------------------------------------------------------------------
-This inverse kinematics has been recommended to be replaced by Mink
+This inverse kinematics cal has been recommended to be replaced by [mink](https://github.com/kevinzakka/mink)
+
 ----------------------------------------------------------------------
 A Inverse Kinematics calculation repo for [MyoSuite](https://github.com/MyoHub/myosuite).
 
